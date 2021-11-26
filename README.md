@@ -10,11 +10,11 @@
 
 **Elaborado por:**
 
-[LAURA TATIANA RAMIREZ RODRIGUEZ](mailto:ltramirezr@correo.udistrital.edu.co)**20182020098**
+**LAURA TATIANA RAMIREZ RODRIGUEZ -20182020098**
 
-[JUAN CAMILO CESPEDES ROMERO](mailto:jccespedesr@correo.udistrital.edu.co)**20182020065**
+**JUAN CAMILO CESPEDES ROMERO -20182020065**
 
-**JACKSON LUNA BONILLA 20182020084**
+**JACKSON LUNA BONILLA - 20182020084**
 
 
 **Fundamentos de Ingeniería de Software**
@@ -43,19 +43,6 @@ Se planea desarrollar un software capaz de realizar operaciones básicas con nú
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # **Justificación**
 
 
@@ -66,8 +53,6 @@ En el tiempo que estamos pasando actualmente a nivel mundial, la tecnología a a
 Es por esto que por medio de este trabajo buscamos, mediante la metodología SCRUM realizar de manera eficiente un sistema de información que permita administrar los procesos de una panadería virtual, brindando soluciones a las necesidades presentadas por el cliente, en la agilización de las ventas, control de inventarios, egresos e ingresos.
 
 Gracias a la implementación de esta metodología se podrán ver los avances de manera incremental en el desarrollo de la solución a entregar a los clientes finales, lo cual nos brinda la flexibilidad de poder realizar ajustes o mejoras al proceso con el avance de los diferentes Sprints.
-
-
 
 
 
@@ -245,4 +230,12 @@ Tiempo necesario =6 10
 
 Tiempo necesario =0.6 MESES
 
+# **Modelamiento UML**
+## **Diagrama de clases**
+![Diagrama de clases](/img/Diagrama_clases.png)
 
+## **Diagrama de casos de uso**
+![Diagrama de clases](/img/Diagrama_casos.jpeg)
+
+## **Diagrama de secuencia**
+![Diagrama de clases](/img/Diagrama_secuencia.jpg)
