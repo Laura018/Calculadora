@@ -250,4 +250,4 @@ Tiempo necesario =0.6 MESES
 ![Diagrama de clases](/img/matrices-secuencia.png)
 
 ## **Diagrama de estados**
-![Diagrama de estados](/img/matrices-Estados.jpeg)
+![Diagrama de estados](/img/matrices-diagrama_estados.jpeg)
