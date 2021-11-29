@@ -130,7 +130,7 @@ El propósito de este proyecto es el de poder dar solución a la necesidad de un
 |**FORMULARIO DE ESPECIFICACIÓN DE REQUERIMIENTOS**|
 | :-: |
 |**IDENTIFICADOR:**|**NOMBRE:**|
-| |` `Cambio de Base|
+| |Cambio de Base|
 |<p>**GRADO DE NECESIDAD**</p><p>**(NECESARIO / DESEABLE)**</p>|<p>**REQUERIMIENTO QUE LO**</p><p>**UTILIZA O ESPECIALIZA**</p>|
 |NECESARIO|Operaciones básicas de números|
 |<p>**PRIORIDAD DE DESARROLLO**</p><p>**(A,M,B)**</p>|**DOCUMENTOS DE VISUALIZACIÓN ASOCIADOS**|
@@ -151,7 +151,7 @@ El propósito de este proyecto es el de poder dar solución a la necesidad de un
 ||
 ||
 
-` 	`**Requerimientos no funcionales**
+**Requerimientos no funcionales**
 
 El sistema debe poseer interfaces gráficas bien formadas en las cuales se pueda apreciar de forma clara la información que se presenta de cada producto.
 
@@ -250,4 +250,5 @@ Tiempo necesario =0.6 MESES
 ![Diagrama de clases](/img/matrices-secuencia.png)
 
 ## **Diagrama de estados**
+Diagrama de estados
 ![Diagrama de estados](/img/matrices-diagrama_estados.jpeg)
