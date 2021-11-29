@@ -1,12 +1,9 @@
 ﻿
 ** 
 
-` `**MEDICIÓN, ESTIMACIÓN Y PLANEACIÓN:**
+# **MEDICIÓN, ESTIMACIÓN Y PLANEACIÓN: CALCULATE.IO**
 
-` `**CALCULATE.IO** 
-**
-
-
+ 
 
 **Elaborado por:**
 
@@ -239,3 +236,15 @@ Tiempo necesario =0.6 MESES
 
 ## **Diagrama de secuencia**
 ![Diagrama de clases](/img/Diagrama_secuencia.jpg)
+
+
+
+# **Modelamiento UML PROGRAMA MATRICES**
+## **Diagrama de clases**
+![Diagrama de clases](/img/matrices-clases.jpeg)
+
+## **Diagrama de casos de uso**
+![Diagrama de clases](/img/matrices-casos.png)
+
+## **Diagrama de secuencia**
+![Diagrama de clases](/img/matrices-secuencia.png)
