@@ -62,7 +62,7 @@
 
 
 
-|**[DUL-16] [Registro de empelado en la tienda](https://dulcesideas.atlassian.net/browse/DUL-16)** Creada: 17/dic/21  Actualizada: 17/dic/21 ||
+|**[DUL-16] [Registro de empleado en la tienda](https://dulcesideas.atlassian.net/browse/DUL-16)** Creada: 17/dic/21  Actualizada: 17/dic/21 ||
 | :- | :- |
 |**Estado:**|Tareas por hacer|
 |**Proyecto:**|[DulcesIdeas](https://dulcesideas.atlassian.net/secure/BrowseProject.jspa?id=10000)|
@@ -82,6 +82,14 @@
 | :- | :- |
 |**Sprint:**||
 |**Rank:**|0|i0002v: |
+
+
+|` `**Descripción**  | |
+| :-: | :- |
+
+
+|Como **ADMINISTRADOR** de la tienda quiero poder agregar un nuevo empleado en el sistema para tener una base de datos de los empleados que trabajan actualmente en mi tienda.|
+| :- |
 -----
 
 
@@ -138,6 +146,14 @@
 | :- | :- |
 |**Sprint:**||
 |**Rank:**|0|i0002f: |
+
+
+|` `**Descripción**  | |
+| :-: | :- |
+
+
+|Como **CLIENTE** quiero consultar el estado de mi pedido, ingresando el ID de este y que se vea el estado respectivo (Sin iniciar, pendiente, en camino, finalizado).|
+| :- |
 -----
 
 
@@ -232,7 +248,7 @@
 | :-: | :- |
 
 
-|Yo como CAJERO quiero saber las solicitudes de devoluciones, la información de la compra(fecha, hora, cliente, ingreso del producto, tipo de producto, proveedor, etc…) para así poder darle un buen soporte al cliente.|
+|Yo como **CAJERO** quiero saber las solicitudes de devoluciones, la información de la compra(fecha, hora, cliente, ingreso del producto, tipo de producto, proveedor, etc…) para así poder darle un buen soporte al cliente.|
 | :- |
 -----
 
@@ -264,7 +280,7 @@
 | :-: | :- |
 
 
-|Yo como **CLIENTE** quiero poder agregar, modificar o eliminar un producto en la pagina y que esta información se pueda ver en un sección tipo carrito de compra para poder administrar mis compras.|
+|Yo como **CLIENTE** quiero poder agregar, modificar o eliminar un producto en la página y que esta información se pueda ver en una sección tipo carrito de compra para poder administrar mis compras.|
 | :- |
 -----
 
@@ -296,7 +312,7 @@
 | :-: | :- |
 
 
-|Yo como **ADMINISTRADOR** quiero poder pedir en linea abastecimiento de productos a los proveedores para así surtir el inventario.|
+|Yo como **ADMINISTRADOR** quiero poder pedir en línea abastecimiento de productos a los proveedores para así surtir el inventario.|
 | :- |
 -----
 
@@ -430,7 +446,7 @@
 
 
 
-|**[DUL-3] [Consulta de productos](https://dulcesideas.atlassian.net/browse/DUL-3)** Creada: 16/dic/21  Actualizada: 16/dic/21 ||
+|**[DUL-3] [Consulta de productos](https://dulcesideas.atlassian.net/browse/DUL-3)** Creada: 16/dic/21  Actualizada: 17/dic/21 ||
 | :- | :- |
 |**Estado:**|Tareas por hacer|
 |**Proyecto:**|[DulcesIdeas](https://dulcesideas.atlassian.net/secure/BrowseProject.jspa?id=10000)|
@@ -460,5 +476,4 @@
 | :- |
 -----
 
-
-
+. 
